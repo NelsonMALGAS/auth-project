@@ -51,11 +51,10 @@ Before you begin, make sure you have the following installed on your system:
    cd auth-project
 
 2. Installation
-   ```bash
-### Using npm
-npm install
 
-### Using yarn
-yarn install
+   ```bash
+   npm install
+    or
+   yarn install
    
 
