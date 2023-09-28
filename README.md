@@ -47,7 +47,7 @@ Before you begin, make sure you have the following installed on your system:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/next-auth-practice.git
+   git clone https://github.com/NelsonMALGAS/auth-project.git
    cd auth-project
 
 2. Installation
